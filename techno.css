@@ -1,0 +1,394 @@
+.nav{
+    background-color: rgb(9, 86, 201);
+    height: 60px;
+
+}
+.navp1{
+    display: inline-block;
+}
+.navpara{
+    display: inline-block;
+    float: right;
+    color: white;
+    font-size: 20px;
+}
+li{
+    display: inline;
+}
+.list{
+    font-size: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.tec{
+    
+    
+
+}
+.logo{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 60px;
+
+
+}
+.callinfo{
+    display: inline-block;
+    float: right;
+
+}
+hr.solid{
+    border-top: 2px solid rgb(27, 1, 27);
+    margin-top: 30px;
+}
+ul{
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+li{
+    margin: 20px;
+    font-size: 15px;
+    font-family: bold;
+}
+.info1{
+    display: inline-block;
+
+}
+.info2{
+    display: inline-block;
+    float: right;
+    margin-right: 20px;
+    font-size: 25px;
+    
+
+}
+.btn {
+    background-color: #08c0eebd; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 15px;
+    border-radius: 25px;
+}
+.image{
+    background-image: url(https://technobrilliant.com/images/slider/3.jpg);
+    height: 500px;
+    width: 1335px;
+    margin-top: 50px;
+}
+
+.sub2{
+    width:45%;
+    padding: 90px;
+    font-size: 20px;
+}
+.sub3{
+    background-color: rgba(57, 156, 66, 0.647);
+    text-align: center;
+}
+.head{
+    color: darkorchid;
+    text-decoration: underline;
+}
+.techbuton{
+    padding: 20px;
+    font-size: 15px;
+    background-color: darkorchid;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.mode{
+    background-color: rgb(2, 47, 68);
+    width: 1000px;
+    height: 300px;
+    margin-left: 170px;
+    padding-top: 10px;
+}
+.test{
+    margin-left: 30px;
+    color: yellow;
+    text-decoration: underline;
+    padding-top: 30px;
+}
+.test1{
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    
+}
+.temp1{
+    display: inline-block;
+    text-align: center;
+    background-color: aqua;
+    text-decoration: underline;
+    border-radius: 20px;
+
+}
+.temp2{
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(14, 240, 44);
+    text-decoration: underline;
+    border-radius: 20px;
+
+
+}
+.temp3{
+    display: inline-block;
+    text-align: center ;
+    background-color: rgb(255, 165, 0);
+    text-decoration: underline;
+    border-radius: 20px;
+
+}
+
+.techbuton{
+    padding: 20px;
+    font-size: 15px;
+    background-color: darkorchid;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+}
+.aboutus{
+    display:flex;
+    margin-top: 100px;
+}
+.tech1{
+    color: rgb(169, 9, 243);
+    text-decoration: underline;
+}
+
+.wrapper1{
+    width: 50%;
+    text-align:justify;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 40px;
+}
+.wrapper2{
+    background-image: url('https://technobrilliant.com/images/bg-1.png');
+    width: 50%;
+    display:inline-block ;
+    height: 650px;
+    margin-left: 60px;
+}
+.wrapper3{
+    background-color: rgba(255, 255, 255, 0.641);
+    height: 500px;
+    padding-top: 30px;
+    width: 50%;
+    margin-left: 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+.mainpage{
+    background-image: url(https://technobrilliant.com/images/bg-2.jpg);
+    height: 300px;
+    
+   
+
+}
+.Akash{
+    background-color: rgba(0, 0, 0, 0.779);
+    padding-bottom: 57px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.counter {
+    font-size: 40px;
+    color: #ffc600;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-left: 60px;
+    
+    
+}
+.page1{
+    padding: 30px;
+    margin-top: 60px;
+    
+}
+.basic{
+    font-size: 25px;
+    color: white;
+}
+
+.basic1{
+    font-size: 25px;
+    color: white;
+    margin-left: 60px;
+}
+.types{
+    margin-left: 70px;
+    padding-top: 50px;
+}
+.subtypes{
+    color: rgb(169, 9, 243);
+    text-decoration: underline;
+}
+.images{
+    display: flex;
+    justify-content: space-evenly;
+  
+
+}
+.subimage1{
+    border: 1px solid wheat;
+    width: 400px;
+    
+}
+.para{
+    background-image: url(	https://technobrilliant.com/images/bg-1.jpg);
+    width: 1335px;
+    height: 600px;
+    margin-top: 50px;
+}
+.techbuton1{
+    padding: 20px;
+    font-size: 15px;
+    background-color: darkorchid;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+    margin-left: 100px;
+}
+hr.solid1{
+    border-top: 2px dotted rgb(27, 1, 27);
+    margin-top: 30px;
+    margin: 20px;
+}
+.faci{
+    width: 500px;
+    height: 600px;
+    background-color: #03335ebf;
+    float: right;
+    color: white;
+}
+.list1{
+    margin-top: 50px;
+    margin-left: 30px;
+
+}
+.list2{
+    margin-top: 50px;
+    margin-left: 30px
+
+}
+.list3{
+    margin-top: 80px;
+    margin-left: 30px
+
+}
+.ml{
+    margin-left: 30px;
+}
+.bg{
+    background-image: url(	https://technobrilliant.com/images/bg-2.jpg);
+    width: 1335px;
+    height: 520px;
+}
+.bg1{
+    padding: 40px;
+    color: white;
+    font-size: 25px;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+.bgf1{
+    color: white;
+    width: 400px;
+
+}
+.bf1{
+    font-size: 18px;
+
+}
+.bgf2{
+    color: white;
+    width: 400px;
+}
+.bg2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.bgd{
+    background-color: rgba(0, 0, 0, 0.739);
+    width: 1335px;
+    height: 520px;
+
+}
+.im{
+     margin-left: 20px;
+     border-radius: 20px;
+}
+hr.solid2{
+
+    border-top: 2px dotted rgb(27, 1, 27);
+}
+
+
+.divfoot1{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: white;
+}
+
+
+/* .icon{
+    box-sizing: border-box;
+} */
+.foot{
+    background-color: rgb(1, 38, 70);
+    margin-top: 100px;
+}
+.divfoot1{
+    width: 25%;
+}
+.fa-brands{
+    margin: 10px;
+    color: white;
+}
+.divul{
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+}
+.fa-sharp{
+    color: darkorchid;
+}
+.fa-regular{
+    color: darkorchid;
+}
+.lastd{
+    display: flex;
+}
+.fa-house-chimney{
+    margin-top: 30px;
+    color: darkorchid;
+}
+.lastp{
+    margin-left: 20px;
+    color: white;
+}
+.lastul{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.lasth1{
+    color: white;
+}
+.wrapfoot{
+    display: flex;
+}
